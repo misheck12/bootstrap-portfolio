@@ -1,0 +1,14 @@
+body {
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+}
+
+nav.bg-light {
+  background-color: #fff !important;
+}
+
+.intro {
+  height: 100vh;
+  background-color: #fff !important;
+}
